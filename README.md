@@ -1,2 +1,4 @@
 # helloworld_bret
-nebie test
+newbie test
+
+Testing out Git for the first time.
